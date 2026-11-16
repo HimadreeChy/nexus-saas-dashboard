@@ -2,6 +2,10 @@
 
 A modern, responsive SaaS admin dashboard built with React and Vite. Nexus provides a clean interface for monitoring business performance, managing transactions and customers, tracking notifications, and configuring account preferences.
 
+🚀 **Live Demo:** [View Website](https://nexus-saas-dashboard-xi.vercel.app/)
+
+💻 **GitHub:** [Source Code](https://github.com/HimadreeChy/nexus-saas-dashboard)
+
 ## ✨ Features
 
 - **Dashboard Overview** — KPI cards, revenue summary, recent transactions, and business insights.

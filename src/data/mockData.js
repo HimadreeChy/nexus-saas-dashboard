@@ -1,0 +1,68 @@
+export const stats = [
+    { title: "Total Revenue", value: "$48,294", change: "+12.8%", positive: true, note: "vs. last month", icon: "revenue" },
+    { title: "Total Customers", value: "2,840", change: "+8.2%", positive: true, note: "vs. last month", icon: "customers" },
+    { title: "Total Orders", value: "1,248", change: "+5.4%", positive: true, note: "vs. last month", icon: "orders" },
+    { title: "Conversion Rate", value: "3.64%", change: "-1.2%", positive: false, note: "vs. last month", icon: "conversion" },
+];
+
+export const revenueData = [
+    { month: "Jan", revenue: 18000, expenses: 12000 },
+    { month: "Feb", revenue: 22000, expenses: 14000 },
+    { month: "Mar", revenue: 19000, expenses: 13000 },
+    { month: "Apr", revenue: 28000, expenses: 17000 },
+    { month: "May", revenue: 25000, expenses: 16000 },
+    { month: "Jun", revenue: 34000, expenses: 21000 },
+    { month: "Jul", revenue: 30000, expenses: 19000 },
+    { month: "Aug", revenue: 39000, expenses: 23000 },
+    { month: "Sep", revenue: 35000, expenses: 22000 },
+    { month: "Oct", revenue: 45000, expenses: 28000 },
+    { month: "Nov", revenue: 42000, expenses: 26000 },
+    { month: "Dec", revenue: 52000, expenses: 31000 },
+];
+
+export const transactions = [{
+        id: "#NX-1048",
+        customer: "Sarah Johnson",
+        email: "sarah.johnson@gmail.com",
+        avatar: "https://i.pravatar.cc/150?img=47",
+        date: "Nov 16, 2026",
+        amount: "$420.00",
+        status: "Completed",
+    },
+    {
+        id: "#NX-1047",
+        customer: "Michael Smith",
+        email: "michael.smith@gmail.com",
+        avatar: "https://i.pravatar.cc/150?img=12",
+        date: "Nov 15, 2026",
+        amount: "$280.00",
+        status: "Pending",
+    },
+    {
+        id: "#NX-1046",
+        customer: "Emily Davis",
+        email: "emily.davis@gmail.com",
+        avatar: "https://i.pravatar.cc/150?img=44",
+        date: "Nov 14, 2026",
+        amount: "$650.00",
+        status: "Completed",
+    },
+    {
+        id: "#NX-1045",
+        customer: "James Wilson",
+        email: "james.wilson@gmail.com",
+        avatar: "https://i.pravatar.cc/150?img=13",
+        date: "Nov 13, 2026",
+        amount: "$190.00",
+        status: "Refunded",
+    },
+    {
+        id: "#NX-1044",
+        customer: "Olivia Brown",
+        email: "olivia.brown@gmail.com",
+        avatar: "https://i.pravatar.cc/150?img=49",
+        date: "Nov 12, 2026",
+        amount: "$890.00",
+        status: "Completed",
+    },
+];
